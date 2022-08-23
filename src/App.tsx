@@ -15,10 +15,10 @@ function App() {
   return (
       <section className='bg-hero-bg h-screen bg-center bg-cover'>
     <div className="flex flex-col gap-5 bold h-screen justify-center items-center text-green-900  ">
-      <Button text="você" />
-      <Button text="é" />
-      <Button text="Muito apaixonante " />
-      <Button text='podia rolar a gente,hein! xD'/>
+      <Button text="xD" />
+      <Button text="Contato" />
+      <Button text="Portifólio " />
+      <Button text='Sobre Mim'/>
       <Widget />
     </div>
     </section>
